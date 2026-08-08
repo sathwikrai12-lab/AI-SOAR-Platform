@@ -25,7 +25,7 @@ Machine learning-based alert severity classification (Random Forest / XGBoost) t
 ## Team
 | Roll Number | Name |
 |---|---|
-|  |  |
+| 20231CCS0148 |Sathwik Rai B S  |
 |  |  |
 |  |  |
 |  |  |
